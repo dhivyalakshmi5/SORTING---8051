@@ -15,7 +15,7 @@ To write and execute Assembly language Program for sorting of data using 8051 ke
 4.	Check R7 is zero, and then move the register R0 & A.
 5.	Again increment pointer and decrement R7,
 6.	Check R7 is zero. If no repeat the process from step 2.
-7.	Otherwise stop the program.
+7.	Otherwise stop the program. 
 
 **PROGRAM:**
 
