@@ -53,9 +53,6 @@ END
 
 
 **OUTPUT:**
-
-<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/6b9c4665-fa07-44bd-943d-cc05669d2eb1" />
-
 **MEMORY WINDOW:**
 
 Before execution: D:0x40H:
@@ -68,7 +65,8 @@ After execution: D:0x40H:
 <BR>
 <BR>
 <BR>
-<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/6b9c4665-fa07-44bd-943d-cc05669d2eb1" />
+<img width="667" height="207" alt="image" src="https://github.com/user-attachments/assets/ba77598e-5794-4bd3-b1de-7c7653a7a0e4" />
+
 
 
 **(ii)	Ascending order**
@@ -118,9 +116,6 @@ DJNZ R7,LOOP1
 END
 
 **OUTPUT:**
-
-<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/50547314-8929-4db7-89ec-0fbfc9bcea6d" />
-
 **MEMORY WINDOW:** 
 
 **Before execution:**
@@ -136,7 +131,7 @@ D:0x40H:
 <BR>
 <BR>
 <BR>
-<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/50547314-8929-4db7-89ec-0fbfc9bcea6d" />
+<img width="487" height="136" alt="image" src="https://github.com/user-attachments/assets/b8a607f9-3004-4eb3-a047-6d3a4ac2ca6d" />
 
 **Result:**
 
